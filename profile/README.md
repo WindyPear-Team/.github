@@ -1,6 +1,6 @@
 # 风梨团队
 
-![风梨团队标志](https://api.flweb.cn/logos/logo.webp) <!-- 替换为实际图片链接 -->
+<img src="https://api.flweb.cn/logos/logo.webp" alt="风梨团队标志" width="200">
 
 **风梨团队**，始终致力于为良好开源生态而努力。
 
